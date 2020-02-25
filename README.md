@@ -57,9 +57,12 @@ p2:
 
 =======================Chapter 1.introduction.ipynb end=============================
 
+### 주의사항 :
+- 이미지 업로드 시 : 
+  이미지를 images/chapterxx폴더에 먼저 업로드한 후, 해당 html 주소를 반영해서 jupyter notebook에 작성
 
-
-참고링크 : 
+### 참고링크 :
+ 
 1. 주교재 : [https://github.com/janishar/mit-deep-learning-book-pdf/tree/master/chapter-wise-pdf](https://github.com/janishar/mit-deep-learning-book-pdf/tree/master/chapter-wise-pdf)
 2. LaTeX 심볼 : [https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols](https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols)
 3. 깃허브 이미지 올리기(디스크 차지X) : [https://worthpreading.tistory.com/83](https://worthpreading.tistory.com/83)
