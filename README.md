@@ -58,8 +58,11 @@ p2:
 =======================Chapter 1.introduction.ipynb end=============================
 
 ### 주의사항 :
+
 - 이미지 업로드 시 : 
+
   이미지를 images/chapterxx폴더에 먼저 업로드한 후, 해당 html 주소를 반영해서 jupyter notebook에 작성
+
 
 ### 참고링크 :
  
