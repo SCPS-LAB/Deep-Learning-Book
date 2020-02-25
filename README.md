@@ -60,5 +60,5 @@ p2:
 
 
 참고링크 : 
-1. [Deep Learning Book 다운로드](https://github.com/janishar/mit-deep-learning-book-pdf/tree/master/chapter-wise-pdf)
-2. [LaTeX 심볼](https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols)
+1. 주교재 : [https://github.com/janishar/mit-deep-learning-book-pdf/tree/master/chapter-wise-pdf](https://github.com/janishar/mit-deep-learning-book-pdf/tree/master/chapter-wise-pdf)
+6. LaTeX 심볼 : [https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols](https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols)
