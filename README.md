@@ -2,6 +2,7 @@
 Deep Learning 교재 학습
 
 viewer : [https://nbviewer.jupyter.org/github/SCPSAI/Deep-Learning-Book/tree/master/](https://nbviewer.jupyter.org/github/SCPSAI/Deep-Learning-Book/tree/master/)
+
 viewer update(refresh) : {url}?flush_cache=true
 
 To. 2020.09.01 (5.5 개월)
