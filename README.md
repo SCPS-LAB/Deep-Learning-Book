@@ -10,7 +10,7 @@ To. 2020.09.01 (5.5 개월)
 
 ### 진행 사항
 - 2020/02/19 : Chapter 1. Introduction - 이승기
-- 2020/02/26 : Chapter 2. Linear Algebra - ??(), ??(), ??()
+- 2020/02/26 : Chapter 2. Linear Algebra - 신현엽(1-4), 이승기(5-8), 권진우(9-12)
 - 2020/03/04 : Chapter 3. Probability and Information Theory - ??(), ??(), ??()
 
 ### contents structure
