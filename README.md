@@ -14,6 +14,7 @@ To. 2020.09.01 (5.5 개월)
 - 2020/03/04 : Chapter 3. Probability and Information Theory - 신현엽(1-8), 권진우(9-12), 이승기(12-14)
 - 2020/03/10 : Chapter 4. Numerical Computation - 김영진
 - 2020/03/11 : Chapter 5. Machine Learning Basics (1) - 이승기(1), 권진우(2-3), 신현엽(4)
+- 2020/03/20 : Chapter 5. Machine Learning Basics (2) - 이승기(5-6), 신현엽(7-8), 권진우(9-11)
 
 ### contents structure
 
